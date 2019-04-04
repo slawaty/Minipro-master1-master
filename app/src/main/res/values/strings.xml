@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MiniPro</string>
+    <string name="tel">หน้าแรก</string>
+    <string name="name">Thanakit Kaokam</string>
+    <string name="name1">Chama Karansanti</string>
+    <string name="study">ICE3/2</string>
+    <string name="nickname">Kot</string>
+    <string name="nickname1">Chama</string>
+    <string name="address">สาขาวิชาวิศวกรรมคอมพิเตอร์สาขาอุตสาหกรรม</string>
+    <string name="address1">วิทยาลัยเทคโนโลยีราชมงคลศรีวิชัย วิทยาลัยรัตภูมิ</string>
+    <color name="Bg1">#17D3FD</color>
+    <string name="Welcome">ยินดีต้อนรับเข้าสู่ระบบ</string>
+    <string name="textname">Name</string>
+    <string name="textpass">Password</string>
+    <string name="textphone">Phone</string>
+
+</resources>

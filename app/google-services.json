@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "348412376203",
+    "firebase_url": "https://minipro-60a18.firebaseio.com",
+    "project_id": "minipro-60a18",
+    "storage_bucket": "minipro-60a18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348412376203:android:99efedef0d3fcfe8",
+        "android_client_info": {
+          "package_name": "thanakit.ruts.ac.th.lab1_basicss"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDW9chvxb4TlTPbTkdlPOWbsOq8_AVTWDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348412376203-fs6imt2b90b1ktienh4tn0oojv3f6shc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
